@@ -13,7 +13,7 @@ export default function Home() {
               <div className='relative'>
                 <h1>SageRD<span className='sup'>&trade;</span></h1>
               </div>
-              <p className='subtext'>Illuminating Data Intellience</p>
+              <p className='subtext'>Illuminate Data</p>
             </section>
           </div>
         
