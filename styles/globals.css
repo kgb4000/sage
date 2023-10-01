@@ -41,3 +41,13 @@ video {
   top: 0;
   left: 0;
 }
+
+.sup {
+    position: relative;
+    font-size: 40%;
+    line-height: 0;
+    vertical-align: baseline;
+    top: -1.2em;
+    font-weight: normal;
+}
+

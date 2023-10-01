@@ -10,8 +10,10 @@ export default function Home() {
         <BackgroundVideo />
           <div className='container'>
             <section className='into'>
-              <h1>SageRD</h1>
-              <p className='subtext'>Coming Soon</p>
+              <div className='relative'>
+                <h1>SageRD<span className='sup'>&trade;</span></h1>
+              </div>
+              <p className='subtext'>Illuminating Data Intellience</p>
             </section>
           </div>
         
