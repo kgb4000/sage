@@ -11,7 +11,7 @@ export default function Home() {
           <div className='container'>
             <section className='into'>
               <div className='relative'>
-                <h1>SageRD<span className='sup'>&trade;</span></h1>
+                <h1>SAGERD<span className='sup'>&trade;</span></h1>
               </div>
               <p className='subtext'>Illuminate Data</p>
             </section>
